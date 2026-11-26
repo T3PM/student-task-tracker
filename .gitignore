@@ -1,4 +1,8 @@
 node_modules/
+docs/
+*.zip
+*.docx
+*.pdf
 *.log
 .DS_Store
 Thumbs.db
